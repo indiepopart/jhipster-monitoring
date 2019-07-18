@@ -6,6 +6,7 @@ This repository contains a microservices architecture and includes docker-compos
 - [Java 8](https://adoptopenjdk.net/)
 - [Docker](https://docs.docker.com/install)
 - [Docker Compose](https://docs.docker.com/compose/install)
+- [Node.js](https://nodejs.org/en/)
 
 
 ## Getting Started
